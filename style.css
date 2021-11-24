@@ -60,3 +60,12 @@ body {
 .notes .hidden {
   display: none;
 }
+
+.add {
+  align-items: center;
+  padding: 20px;
+  justify-content: center;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(100, 100, 100, 0.1);
+  cursor: pointer;
+}
